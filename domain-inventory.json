@@ -1,0 +1,240 @@
+[
+  {
+    "repo": "frontend",
+    "github_repo_url": "https://github.com/3dprinting-delta/frontend",
+    "selected_domain": "frontendapp.io",
+    "dns_preflight": "primary frontend.io already resolves; first fallback selected",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "backend",
+    "github_repo_url": "https://github.com/3dprinting-delta/backend",
+    "selected_domain": "backendapp.io",
+    "dns_preflight": "primary backend.io already resolves; first fallback selected",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "aurora-public-site-20260325a",
+    "github_repo_url": "https://github.com/3dprinting-delta/aurora-public-site-20260325a",
+    "selected_domain": "aurora-public-site-20260325a.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "block-battle",
+    "github_repo_url": "https://github.com/3dprinting-delta/block-battle",
+    "selected_domain": "block-battle.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "block-battle-runtime-20260325b",
+    "github_repo_url": "https://github.com/3dprinting-delta/block-battle-runtime-20260325b",
+    "selected_domain": "block-battle-runtime-20260325b.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "block-battle-site-20260325b",
+    "github_repo_url": "https://github.com/3dprinting-delta/block-battle-site-20260325b",
+    "selected_domain": "block-battle-site-20260325b.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "block-watch-public-20260323a",
+    "github_repo_url": "https://github.com/3dprinting-delta/block-watch-public-20260323a",
+    "selected_domain": "block-watch-public-20260323a.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "fresh-voxel-block-3d-20260325a",
+    "github_repo_url": "https://github.com/3dprinting-delta/fresh-voxel-block-3d-20260325a",
+    "selected_domain": "fresh-voxel-block-3d-20260325a.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "globestreet-arena-live",
+    "github_repo_url": "https://github.com/3dprinting-delta/globestreet-arena-live",
+    "selected_domain": "globestreet-arena-live.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "globestreet-tv-wall-live",
+    "github_repo_url": "https://github.com/3dprinting-delta/globestreet-tv-wall-live",
+    "selected_domain": "globestreet-tv-wall-live.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "iframe-proxy",
+    "github_repo_url": "https://github.com/3dprinting-delta/iframe-proxy",
+    "selected_domain": "iframe-proxy.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "ketch-up-fresh-site",
+    "github_repo_url": "https://github.com/3dprinting-delta/ketch-up-fresh-site",
+    "selected_domain": "ketch-up-fresh-site.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "ketch-up-public",
+    "github_repo_url": "https://github.com/3dprinting-delta/ketch-up-public",
+    "selected_domain": "ketch-up-public.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "ketch-up-python-public",
+    "github_repo_url": "https://github.com/3dprinting-delta/ketch-up-python-public",
+    "selected_domain": "ketch-up-python-public.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "math-atlas-forge-25-public",
+    "github_repo_url": "https://github.com/3dprinting-delta/math-atlas-forge-25-public",
+    "selected_domain": "math-atlas-forge-25-public.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "multiverse-fresh",
+    "github_repo_url": "https://github.com/3dprinting-delta/multiverse-fresh",
+    "selected_domain": "multiverse-fresh.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "nomads-firezone-20260323",
+    "github_repo_url": "https://github.com/3dprinting-delta/nomads-firezone-20260323",
+    "selected_domain": "nomads-firezone-20260323.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "nomads-game-pvp-20260322",
+    "github_repo_url": "https://github.com/3dprinting-delta/nomads-game-pvp-20260322",
+    "selected_domain": "nomads-game-pvp-20260322.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "nomads-game-pvp-server",
+    "github_repo_url": "https://github.com/3dprinting-delta/nomads-game-pvp-server",
+    "selected_domain": "nomads-game-pvp-server.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "portfolio-public-20260323",
+    "github_repo_url": "https://github.com/3dprinting-delta/portfolio-public-20260323",
+    "selected_domain": "portfolio-public-20260323.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "ragdollarchers2-site",
+    "github_repo_url": "https://github.com/3dprinting-delta/ragdollarchers2-site",
+    "selected_domain": "ragdollarchers2-site.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "ragdoll-archers-playable-20260401a",
+    "github_repo_url": "https://github.com/3dprinting-delta/ragdoll-archers-playable-20260401a",
+    "selected_domain": "ragdoll-archers-playable-20260401a.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "ragdoll-cpp2il-src",
+    "github_repo_url": "https://github.com/3dprinting-delta/ragdoll-cpp2il-src",
+    "selected_domain": "ragdoll-cpp2il-src.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding_via_microsite"
+  },
+  {
+    "repo": "scientific_name_generator_20260320_175816",
+    "github_repo_url": "https://github.com/3dprinting-delta/scientific_name_generator_20260320_175816",
+    "selected_domain": "scientific-name-generator-20260320-175816.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "scientific_name_generator_clean",
+    "github_repo_url": "https://github.com/3dprinting-delta/scientific_name_generator_clean",
+    "selected_domain": "scientific-name-generator-clean.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "solo-brain-archive-public",
+    "github_repo_url": "https://github.com/3dprinting-delta/solo-brain-archive-public",
+    "selected_domain": "solo-brain-archive-public.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "sourceplayground-portal-20260401a",
+    "github_repo_url": "https://github.com/3dprinting-delta/sourceplayground-portal-20260401a",
+    "selected_domain": "sourceplayground-portal-20260401a.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "super-brain-solo-platform",
+    "github_repo_url": "https://github.com/3dprinting-delta/super-brain-solo-platform",
+    "selected_domain": "super-brain-solo-platform.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "urethane-3d",
+    "github_repo_url": "https://github.com/3dprinting-delta/urethane-3d",
+    "selected_domain": "urethane-3d.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "urethane-infinite-maze-20260327a",
+    "github_repo_url": "https://github.com/3dprinting-delta/urethane-infinite-maze-20260327a",
+    "selected_domain": "urethane-infinite-maze-20260327a.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "upstream-ragdollarchers2",
+    "github_repo_url": "https://github.com/3dprinting-delta/upstream-ragdollarchers2",
+    "selected_domain": "upstream-ragdollarchers2.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding_via_microsite"
+  },
+  {
+    "repo": "voxel-sandbox-forge-20260331a",
+    "github_repo_url": "https://github.com/3dprinting-delta/voxel-sandbox-forge-20260331a",
+    "selected_domain": "voxel-sandbox-forge-20260331a.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "zip-studio-public",
+    "github_repo_url": "https://github.com/3dprinting-delta/zip-studio-public",
+    "selected_domain": "zip-studio-public.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding"
+  },
+  {
+    "repo": "codex-sum-it-up-workspace-mirror",
+    "github_repo_url": "https://github.com/3dprinting-delta/codex-sum-it-up-workspace-mirror",
+    "selected_domain": "codex-sum-it-up-workspace-mirror.io",
+    "dns_preflight": "no local DNS answer on primary candidate",
+    "status": "pending_namecheap_purchase_and_render_binding_via_microsite"
+  }
+]
