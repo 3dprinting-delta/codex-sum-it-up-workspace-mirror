@@ -205,8 +205,8 @@
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "runtime_url":  null,
-        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
+        "runtime_url":  "https://nomads-game-pvp-live.onrender.com/",
+        "notes":  "GitHub Pages now redirects immediately to the known live Render runtime."
     },
     {
         "repo":  "portfolio-public-20260323",
