@@ -1,0 +1,240 @@
+[
+  {
+    "local_folder": "frontend",
+    "github_repo_url": "https://github.com/3dprinting-delta/frontend",
+    "project_type": "nextjs-frontend",
+    "future_deploy_portal_target": "GitHub repo -> Vercel or other Next.js frontend host",
+    "notes": "frontend"
+  },
+  {
+    "local_folder": "backend",
+    "github_repo_url": "https://github.com/3dprinting-delta/backend",
+    "project_type": "node-backend",
+    "future_deploy_portal_target": "GitHub repo -> Railway, Render, Fly, or VM",
+    "notes": "backend"
+  },
+  {
+    "local_folder": "aurora-public-site-20260325a",
+    "github_repo_url": "https://github.com/3dprinting-delta/aurora-public-site-20260325a",
+    "project_type": "web-app",
+    "future_deploy_portal_target": "GitHub repo -> frontend host or full-stack Node host",
+    "notes": "snapshot transfer"
+  },
+  {
+    "local_folder": "block-battle",
+    "github_repo_url": "https://github.com/3dprinting-delta/block-battle",
+    "project_type": "web-game",
+    "future_deploy_portal_target": "GitHub repo -> frontend/static host",
+    "notes": "frontend"
+  },
+  {
+    "local_folder": "block-battle-runtime-20260325b",
+    "github_repo_url": "https://github.com/3dprinting-delta/block-battle-runtime-20260325b",
+    "project_type": "runtime-app",
+    "future_deploy_portal_target": "GitHub repo -> Node host if runtime services are needed",
+    "notes": "runtime"
+  },
+  {
+    "local_folder": "block-battle-site-20260325b",
+    "github_repo_url": "https://github.com/3dprinting-delta/block-battle-site-20260325b",
+    "project_type": "web-site",
+    "future_deploy_portal_target": "GitHub repo -> frontend/static host",
+    "notes": "frontend"
+  },
+  {
+    "local_folder": "block-watch-public-20260323a",
+    "github_repo_url": "https://github.com/3dprinting-delta/block-watch-public-20260323a",
+    "project_type": "web-site",
+    "future_deploy_portal_target": "GitHub repo -> frontend/static host",
+    "notes": "frontend"
+  },
+  {
+    "local_folder": "fresh-voxel-block-3d-20260325a",
+    "github_repo_url": "https://github.com/3dprinting-delta/fresh-voxel-block-3d-20260325a",
+    "project_type": "web-game",
+    "future_deploy_portal_target": "GitHub repo -> frontend/static host",
+    "notes": "3d"
+  },
+  {
+    "local_folder": "globestreet-arena-live",
+    "github_repo_url": "https://github.com/3dprinting-delta/globestreet-arena-live",
+    "project_type": "web-game",
+    "future_deploy_portal_target": "GitHub repo -> frontend host",
+    "notes": "live"
+  },
+  {
+    "local_folder": "globestreet-tv-wall-live",
+    "github_repo_url": "https://github.com/3dprinting-delta/globestreet-tv-wall-live",
+    "project_type": "web-app",
+    "future_deploy_portal_target": "GitHub repo -> frontend host",
+    "notes": "display"
+  },
+  {
+    "local_folder": "iframe-proxy",
+    "github_repo_url": "https://github.com/3dprinting-delta/iframe-proxy",
+    "project_type": "node-proxy",
+    "future_deploy_portal_target": "GitHub repo -> Node host",
+    "notes": "backend"
+  },
+  {
+    "local_folder": "ketch-up-fresh-site",
+    "github_repo_url": "https://github.com/3dprinting-delta/ketch-up-fresh-site",
+    "project_type": "web-site",
+    "future_deploy_portal_target": "GitHub repo -> frontend/static host",
+    "notes": "frontend"
+  },
+  {
+    "local_folder": "ketch-up-public",
+    "github_repo_url": "https://github.com/3dprinting-delta/ketch-up-public",
+    "project_type": "web-site",
+    "future_deploy_portal_target": "GitHub repo -> frontend/static host",
+    "notes": "public"
+  },
+  {
+    "local_folder": "ketch-up-python-public",
+    "github_repo_url": "https://github.com/3dprinting-delta/ketch-up-python-public",
+    "project_type": "python-service",
+    "future_deploy_portal_target": "GitHub repo -> Python-capable host",
+    "notes": "python"
+  },
+  {
+    "local_folder": "math-atlas-forge-25-public",
+    "github_repo_url": "https://github.com/3dprinting-delta/math-atlas-forge-25-public",
+    "project_type": "web-app",
+    "future_deploy_portal_target": "GitHub repo -> frontend host",
+    "notes": "frontend"
+  },
+  {
+    "local_folder": "multiverse-fresh",
+    "github_repo_url": "https://github.com/3dprinting-delta/multiverse-fresh",
+    "project_type": "web-app",
+    "future_deploy_portal_target": "GitHub repo -> frontend or full-stack host",
+    "notes": "existing history preserved via additional remote"
+  },
+  {
+    "local_folder": "nomads-firezone-20260323",
+    "github_repo_url": "https://github.com/3dprinting-delta/nomads-firezone-20260323",
+    "project_type": "web-game",
+    "future_deploy_portal_target": "GitHub repo -> frontend host",
+    "notes": "frontend"
+  },
+  {
+    "local_folder": "nomads-game-pvp-20260322",
+    "github_repo_url": "https://github.com/3dprinting-delta/nomads-game-pvp-20260322",
+    "project_type": "web-game",
+    "future_deploy_portal_target": "GitHub repo -> frontend host",
+    "notes": "frontend"
+  },
+  {
+    "local_folder": "nomads-game-pvp-server",
+    "github_repo_url": "https://github.com/3dprinting-delta/nomads-game-pvp-server",
+    "project_type": "node-backend",
+    "future_deploy_portal_target": "GitHub repo -> Railway, Render, Fly, or VM",
+    "notes": "backend"
+  },
+  {
+    "local_folder": "portfolio-public-20260323",
+    "github_repo_url": "https://github.com/3dprinting-delta/portfolio-public-20260323",
+    "project_type": "portfolio-site",
+    "future_deploy_portal_target": "GitHub repo -> frontend/static host",
+    "notes": "public"
+  },
+  {
+    "local_folder": "ragdollarchers2-site",
+    "github_repo_url": "https://github.com/3dprinting-delta/ragdollarchers2-site",
+    "project_type": "static-site",
+    "future_deploy_portal_target": "GitHub repo -> static host or GitHub Pages",
+    "notes": "snapshot transfer because upstream history push failed"
+  },
+  {
+    "local_folder": "ragdoll-archers-playable-20260401a",
+    "github_repo_url": "https://github.com/3dprinting-delta/ragdoll-archers-playable-20260401a",
+    "project_type": "web-game",
+    "future_deploy_portal_target": "GitHub repo -> frontend host",
+    "notes": "playable"
+  },
+  {
+    "local_folder": "ragdoll-cpp2il-src",
+    "github_repo_url": "https://github.com/3dprinting-delta/ragdoll-cpp2il-src",
+    "project_type": "upstream-tooling",
+    "future_deploy_portal_target": "GitHub repo -> source mirror",
+    "notes": "existing history preserved via additional remote"
+  },
+  {
+    "local_folder": "scientific_name_generator_20260320_175816",
+    "github_repo_url": "https://github.com/3dprinting-delta/scientific_name_generator_20260320_175816",
+    "project_type": "scientific-app",
+    "future_deploy_portal_target": "GitHub repo -> frontend or Python-capable host",
+    "notes": "science"
+  },
+  {
+    "local_folder": "scientific_name_generator_clean",
+    "github_repo_url": "https://github.com/3dprinting-delta/scientific_name_generator_clean",
+    "project_type": "scientific-app",
+    "future_deploy_portal_target": "GitHub repo -> frontend or full-stack host",
+    "notes": "snapshot transfer without oversized raw datasets"
+  },
+  {
+    "local_folder": "solo-brain-archive-public",
+    "github_repo_url": "https://github.com/3dprinting-delta/solo-brain-archive-public",
+    "project_type": "web-app",
+    "future_deploy_portal_target": "GitHub repo -> frontend host",
+    "notes": "archive"
+  },
+  {
+    "local_folder": "sourceplayground-portal-20260401a",
+    "github_repo_url": "https://github.com/3dprinting-delta/sourceplayground-portal-20260401a",
+    "project_type": "portal",
+    "future_deploy_portal_target": "GitHub repo -> frontend or full-stack host",
+    "notes": "portal"
+  },
+  {
+    "local_folder": "super-brain-solo-platform",
+    "github_repo_url": "https://github.com/3dprinting-delta/super-brain-solo-platform",
+    "project_type": "web-platform",
+    "future_deploy_portal_target": "GitHub repo -> frontend or full-stack host",
+    "notes": "platform"
+  },
+  {
+    "local_folder": "urethane-3d",
+    "github_repo_url": "https://github.com/3dprinting-delta/urethane-3d",
+    "project_type": "3d-web-app",
+    "future_deploy_portal_target": "GitHub repo -> frontend host",
+    "notes": "3d"
+  },
+  {
+    "local_folder": "urethane-infinite-maze-20260327a",
+    "github_repo_url": "https://github.com/3dprinting-delta/urethane-infinite-maze-20260327a",
+    "project_type": "web-game",
+    "future_deploy_portal_target": "GitHub repo -> frontend host",
+    "notes": "game"
+  },
+  {
+    "local_folder": "upstream-ragdollarchers2",
+    "github_repo_url": "https://github.com/3dprinting-delta/upstream-ragdollarchers2",
+    "project_type": "upstream-mirror",
+    "future_deploy_portal_target": "GitHub repo -> source mirror",
+    "notes": "existing history preserved via additional remote"
+  },
+  {
+    "local_folder": "voxel-sandbox-forge-20260331a",
+    "github_repo_url": "https://github.com/3dprinting-delta/voxel-sandbox-forge-20260331a",
+    "project_type": "web-game",
+    "future_deploy_portal_target": "GitHub repo -> frontend host",
+    "notes": "voxel"
+  },
+  {
+    "local_folder": "zip-studio-public",
+    "github_repo_url": "https://github.com/3dprinting-delta/zip-studio-public",
+    "project_type": "web-app",
+    "future_deploy_portal_target": "GitHub repo -> frontend or full-stack host",
+    "notes": "public"
+  },
+  {
+    "local_folder": "codex-sum-it-up-workspace-mirror",
+    "github_repo_url": "https://github.com/3dprinting-delta/codex-sum-it-up-workspace-mirror",
+    "project_type": "workspace-mirror",
+    "future_deploy_portal_target": "GitHub repo -> reference index only",
+    "notes": "mirror"
+  }
+]
