@@ -7,15 +7,14 @@ It is intentionally lightweight:
 - It does not duplicate the full source of each migrated project.
 - It acts as the canonical directory of project repositories.
 - It documents which GitHub repo should be used as the future deploy portal for each project.
-- It carries the `.io` rollout inventory and the standalone microsites for source-only repos.
+- It carries the GitHub Pages rollout inventory and the standalone microsites for source-only repos.
 
 The machine-readable inventory lives in `project-index.json`.
 
-## `.io` Rollout Artifacts
+## GitHub Pages Artifacts
 
-- `domain-inventory.json`: selected `.io` candidate per project plus DNS preflight notes
-- `render-service-inventory.json`: per-project Render service classification
-- `render.yaml`: Render Blueprint for the umbrella microsites
+- `github-pages-inventory.json`: per-project GitHub Pages URL, publish mode, and branch source
+- `pages-landing/`: tracked landing-page sources for repos that cannot run as full GitHub Pages apps
 - `microsites/`: standalone static sites for source-only repos
 
 ## Future Deploy Flow
@@ -27,13 +26,25 @@ Use the project-specific GitHub repository as the source of truth for any future
 - Python services: connect the GitHub repo to the chosen Python-capable host.
 - Upstream mirrors and tooling repos: treat GitHub as the source mirror unless a separate deploy target is needed later.
 
-## External Account Blockers
+## GitHub Pages Model
 
-The local workspace is ready for the GitHub-side and repo-side parts of the rollout, but these steps still require access to external provider accounts:
+The public URL model for this portfolio is now:
 
-- buying the `.io` domains in Namecheap
-- adding DNS records in Namecheap
-- creating or connecting Render services
-- attaching and verifying custom domains in Render
+- `https://3dprinting-delta.github.io/<repo>/`
 
-Until those account-side steps are completed, the selected `.io` names in this repo are deployment candidates rather than live production URLs.
+Each project is published in one of two ways:
+
+- `static_publish`: the real static app/site is published on GitHub Pages
+- `landing_page_publish`: a branded static landing page is published because the original repo needs server runtime
+
+## Private Repo Constraint
+
+Most migrated project repos are private, and the current GitHub account plan does not support GitHub Pages directly on those private repositories.
+
+To keep the required public URL shape, the live Pages delivery now runs through the public user-site repository:
+
+- `https://github.com/3dprinting-delta/3dprinting-delta.github.io`
+
+That user-site repository serves every project under its own subpath:
+
+- `https://3dprinting-delta.github.io/<repo>/`
