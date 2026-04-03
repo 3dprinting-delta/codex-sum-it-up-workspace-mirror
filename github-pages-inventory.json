@@ -168,12 +168,12 @@
         "repo":  "multiverse-fresh",
         "github_repo_url":  "https://github.com/3dprinting-delta/multiverse-fresh",
         "github_pages_url":  "https://3dprinting-delta.github.io/multiverse-fresh/",
-        "publish_mode":  "render_runtime_with_pages_redirect",
+        "publish_mode":  "pages_direct_publish",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
         "runtime_url":  null,
-        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
+        "notes":  "Served directly from the public user-site repo because this project is runnable as a static browser site."
     },
     {
         "repo":  "nomads-firezone-20260323",
@@ -322,12 +322,12 @@
         "repo":  "urethane-infinite-maze-20260327a",
         "github_repo_url":  "https://github.com/3dprinting-delta/urethane-infinite-maze-20260327a",
         "github_pages_url":  "https://3dprinting-delta.github.io/urethane-infinite-maze-20260327a/",
-        "publish_mode":  "render_runtime_with_pages_redirect",
+        "publish_mode":  "pages_direct_publish",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
         "runtime_url":  null,
-        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
+        "notes":  "Served directly from the public user-site repo because this project is runnable as a static browser site."
     },
     {
         "repo":  "upstream-ragdollarchers2",
