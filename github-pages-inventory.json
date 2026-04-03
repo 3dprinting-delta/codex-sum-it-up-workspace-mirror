@@ -3,340 +3,374 @@
         "repo":  "frontend",
         "github_repo_url":  "https://github.com/3dprinting-delta/frontend",
         "github_pages_url":  "https://3dprinting-delta.github.io/frontend/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "backend",
         "github_repo_url":  "https://github.com/3dprinting-delta/backend",
         "github_pages_url":  "https://3dprinting-delta.github.io/backend/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "aurora-public-site-20260325a",
         "github_repo_url":  "https://github.com/3dprinting-delta/aurora-public-site-20260325a",
         "github_pages_url":  "https://3dprinting-delta.github.io/aurora-public-site-20260325a/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "block-battle",
         "github_repo_url":  "https://github.com/3dprinting-delta/block-battle",
         "github_pages_url":  "https://3dprinting-delta.github.io/block-battle/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "pages_direct_publish",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Served directly from the public user-site repo because this project is runnable as a static browser site."
     },
     {
         "repo":  "block-battle-runtime-20260325b",
         "github_repo_url":  "https://github.com/3dprinting-delta/block-battle-runtime-20260325b",
         "github_pages_url":  "https://3dprinting-delta.github.io/block-battle-runtime-20260325b/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "block-battle-site-20260325b",
         "github_repo_url":  "https://github.com/3dprinting-delta/block-battle-site-20260325b",
         "github_pages_url":  "https://3dprinting-delta.github.io/block-battle-site-20260325b/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "block-watch-public-20260323a",
         "github_repo_url":  "https://github.com/3dprinting-delta/block-watch-public-20260323a",
         "github_pages_url":  "https://3dprinting-delta.github.io/block-watch-public-20260323a/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "pages_direct_publish",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Served directly from the public user-site repo because this project is runnable as a static browser site."
     },
     {
         "repo":  "fresh-voxel-block-3d-20260325a",
         "github_repo_url":  "https://github.com/3dprinting-delta/fresh-voxel-block-3d-20260325a",
         "github_pages_url":  "https://3dprinting-delta.github.io/fresh-voxel-block-3d-20260325a/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "globestreet-arena-live",
         "github_repo_url":  "https://github.com/3dprinting-delta/globestreet-arena-live",
         "github_pages_url":  "https://3dprinting-delta.github.io/globestreet-arena-live/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "globestreet-tv-wall-live",
         "github_repo_url":  "https://github.com/3dprinting-delta/globestreet-tv-wall-live",
         "github_pages_url":  "https://3dprinting-delta.github.io/globestreet-tv-wall-live/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "iframe-proxy",
         "github_repo_url":  "https://github.com/3dprinting-delta/iframe-proxy",
         "github_pages_url":  "https://3dprinting-delta.github.io/iframe-proxy/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "ketch-up-fresh-site",
         "github_repo_url":  "https://github.com/3dprinting-delta/ketch-up-fresh-site",
         "github_pages_url":  "https://3dprinting-delta.github.io/ketch-up-fresh-site/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "pages_direct_publish",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Served directly from the public user-site repo because this project is runnable as a static browser site."
     },
     {
         "repo":  "ketch-up-public",
         "github_repo_url":  "https://github.com/3dprinting-delta/ketch-up-public",
         "github_pages_url":  "https://3dprinting-delta.github.io/ketch-up-public/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "pages_direct_publish",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Served directly from the public user-site repo because this project is runnable as a static browser site."
     },
     {
         "repo":  "ketch-up-python-public",
         "github_repo_url":  "https://github.com/3dprinting-delta/ketch-up-python-public",
         "github_pages_url":  "https://3dprinting-delta.github.io/ketch-up-python-public/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "math-atlas-forge-25-public",
         "github_repo_url":  "https://github.com/3dprinting-delta/math-atlas-forge-25-public",
         "github_pages_url":  "https://3dprinting-delta.github.io/math-atlas-forge-25-public/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "multiverse-fresh",
         "github_repo_url":  "https://github.com/3dprinting-delta/multiverse-fresh",
         "github_pages_url":  "https://3dprinting-delta.github.io/multiverse-fresh/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "nomads-firezone-20260323",
         "github_repo_url":  "https://github.com/3dprinting-delta/nomads-firezone-20260323",
         "github_pages_url":  "https://3dprinting-delta.github.io/nomads-firezone-20260323/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "pages_direct_publish",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Served directly from the public user-site repo because this project is runnable as a static browser site."
     },
     {
         "repo":  "nomads-game-pvp-20260322",
         "github_repo_url":  "https://github.com/3dprinting-delta/nomads-game-pvp-20260322",
         "github_pages_url":  "https://3dprinting-delta.github.io/nomads-game-pvp-20260322/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "pages_direct_publish",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Served directly from the public user-site repo because this project is runnable as a static browser site."
     },
     {
         "repo":  "nomads-game-pvp-server",
         "github_repo_url":  "https://github.com/3dprinting-delta/nomads-game-pvp-server",
         "github_pages_url":  "https://3dprinting-delta.github.io/nomads-game-pvp-server/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "portfolio-public-20260323",
         "github_repo_url":  "https://github.com/3dprinting-delta/portfolio-public-20260323",
         "github_pages_url":  "https://3dprinting-delta.github.io/portfolio-public-20260323/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "ragdollarchers2-site",
         "github_repo_url":  "https://github.com/3dprinting-delta/ragdollarchers2-site",
         "github_pages_url":  "https://3dprinting-delta.github.io/ragdollarchers2-site/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "pages_direct_publish",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Served directly from the public user-site repo because this project is runnable as a static browser site."
     },
     {
         "repo":  "ragdoll-archers-playable-20260401a",
         "github_repo_url":  "https://github.com/3dprinting-delta/ragdoll-archers-playable-20260401a",
         "github_pages_url":  "https://3dprinting-delta.github.io/ragdoll-archers-playable-20260401a/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "pages_direct_publish",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Served directly from the public user-site repo because this project is runnable as a static browser site."
     },
     {
         "repo":  "ragdoll-cpp2il-src",
         "github_repo_url":  "https://github.com/3dprinting-delta/ragdoll-cpp2il-src",
         "github_pages_url":  "https://3dprinting-delta.github.io/ragdoll-cpp2il-src/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "pages_microsite_only",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Served as a GitHub Pages microsite because this repo is source-only or portfolio-only."
     },
     {
         "repo":  "scientific_name_generator_20260320_175816",
         "github_repo_url":  "https://github.com/3dprinting-delta/scientific_name_generator_20260320_175816",
         "github_pages_url":  "https://3dprinting-delta.github.io/scientific_name_generator_20260320_175816/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "scientific_name_generator_clean",
         "github_repo_url":  "https://github.com/3dprinting-delta/scientific_name_generator_clean",
         "github_pages_url":  "https://3dprinting-delta.github.io/scientific_name_generator_clean/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "solo-brain-archive-public",
         "github_repo_url":  "https://github.com/3dprinting-delta/solo-brain-archive-public",
         "github_pages_url":  "https://3dprinting-delta.github.io/solo-brain-archive-public/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "sourceplayground-portal-20260401a",
         "github_repo_url":  "https://github.com/3dprinting-delta/sourceplayground-portal-20260401a",
         "github_pages_url":  "https://3dprinting-delta.github.io/sourceplayground-portal-20260401a/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "super-brain-solo-platform",
         "github_repo_url":  "https://github.com/3dprinting-delta/super-brain-solo-platform",
         "github_pages_url":  "https://3dprinting-delta.github.io/super-brain-solo-platform/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "urethane-3d",
         "github_repo_url":  "https://github.com/3dprinting-delta/urethane-3d",
         "github_pages_url":  "https://3dprinting-delta.github.io/urethane-3d/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "pages_direct_publish",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Served directly from the public user-site repo because this project is runnable as a static browser site."
     },
     {
         "repo":  "urethane-infinite-maze-20260327a",
         "github_repo_url":  "https://github.com/3dprinting-delta/urethane-infinite-maze-20260327a",
         "github_pages_url":  "https://3dprinting-delta.github.io/urethane-infinite-maze-20260327a/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "upstream-ragdollarchers2",
         "github_repo_url":  "https://github.com/3dprinting-delta/upstream-ragdollarchers2",
         "github_pages_url":  "https://3dprinting-delta.github.io/upstream-ragdollarchers2/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "pages_microsite_only",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Served as a GitHub Pages microsite because this repo is source-only or portfolio-only."
     },
     {
         "repo":  "voxel-sandbox-forge-20260331a",
         "github_repo_url":  "https://github.com/3dprinting-delta/voxel-sandbox-forge-20260331a",
         "github_pages_url":  "https://3dprinting-delta.github.io/voxel-sandbox-forge-20260331a/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "render_runtime_with_pages_redirect",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Temporary landing page now; replace with immediate redirect once a real Render runtime URL is available."
     },
     {
         "repo":  "zip-studio-public",
         "github_repo_url":  "https://github.com/3dprinting-delta/zip-studio-public",
         "github_pages_url":  "https://3dprinting-delta.github.io/zip-studio-public/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "pages_direct_publish",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Served directly from the public user-site repo because this project is runnable as a static browser site."
     },
     {
         "repo":  "codex-sum-it-up-workspace-mirror",
         "github_repo_url":  "https://github.com/3dprinting-delta/codex-sum-it-up-workspace-mirror",
         "github_pages_url":  "https://3dprinting-delta.github.io/codex-sum-it-up-workspace-mirror/",
-        "publish_mode":  "landing_page_publish",
+        "publish_mode":  "pages_microsite_only",
         "delivery_repo_url":  "https://github.com/3dprinting-delta/3dprinting-delta.github.io",
         "pages_source_branch":  "main",
         "pages_source_path":  "/",
-        "notes":  "Delivered from the public user-site repo because GitHub Pages is not available for the private source repo on the current account plan."
+        "runtime_url":  null,
+        "notes":  "Served as a GitHub Pages microsite because this repo is source-only or portfolio-only."
     }
 ]

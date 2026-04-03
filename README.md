@@ -32,10 +32,11 @@ The public URL model for this portfolio is now:
 
 - `https://3dprinting-delta.github.io/<repo>/`
 
-Each project is published in one of two ways:
+Each project is published in one of three ways:
 
-- `static_publish`: the real static app/site is published on GitHub Pages
-- `landing_page_publish`: a branded static landing page is published because the original repo needs server runtime
+- `pages_direct_publish`: the real static app/site is published on GitHub Pages
+- `render_runtime_with_pages_redirect`: GitHub Pages is the public entry URL and should redirect once the real Render runtime URL is available
+- `pages_microsite_only`: a standalone GitHub Pages microsite exists for source-only or portfolio-only repos
 
 ## Private Repo Constraint
 
@@ -48,3 +49,8 @@ To keep the required public URL shape, the live Pages delivery now runs through 
 That user-site repository serves every project under its own subpath:
 
 - `https://3dprinting-delta.github.io/<repo>/`
+
+At the moment:
+
+- clearly static browser projects are served directly from that user-site repo
+- runtime-backed projects still need Render deployment before their `github.io` pages can become real redirects
